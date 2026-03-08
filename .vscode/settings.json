@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GAM301_ASM.sln"
+    "dotnet.defaultSolution": "GAM301_ASM.sln",
+    "dotnet.preferCSharpExtension": true
 }
